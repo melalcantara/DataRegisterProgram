@@ -1,0 +1,13 @@
+C:\RegistroDatos\volumen1y2\bin\Debug\netcoreapp3.1\volumen1y2.exe
+C:\RegistroDatos\volumen1y2\bin\Debug\netcoreapp3.1\volumen1y2.deps.json
+C:\RegistroDatos\volumen1y2\bin\Debug\netcoreapp3.1\volumen1y2.runtimeconfig.json
+C:\RegistroDatos\volumen1y2\bin\Debug\netcoreapp3.1\volumen1y2.runtimeconfig.dev.json
+C:\RegistroDatos\volumen1y2\bin\Debug\netcoreapp3.1\volumen1y2.dll
+C:\RegistroDatos\volumen1y2\bin\Debug\netcoreapp3.1\volumen1y2.pdb
+C:\RegistroDatos\volumen1y2\obj\Debug\netcoreapp3.1\volumen1y2.csprojAssemblyReference.cache
+C:\RegistroDatos\volumen1y2\obj\Debug\netcoreapp3.1\volumen1y2.AssemblyInfoInputs.cache
+C:\RegistroDatos\volumen1y2\obj\Debug\netcoreapp3.1\volumen1y2.AssemblyInfo.cs
+C:\RegistroDatos\volumen1y2\obj\Debug\netcoreapp3.1\volumen1y2.csproj.CoreCompileInputs.cache
+C:\RegistroDatos\volumen1y2\obj\Debug\netcoreapp3.1\volumen1y2.dll
+C:\RegistroDatos\volumen1y2\obj\Debug\netcoreapp3.1\volumen1y2.pdb
+C:\RegistroDatos\volumen1y2\obj\Debug\netcoreapp3.1\volumen1y2.genruntimeconfig.cache
